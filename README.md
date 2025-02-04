@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=5656&color=7211F7&width=435&lines=Welcome+to+my+GitHub+page;Watashi+no+GitHub+p%C4%93ji+e+y%C5%8Dkoso" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=5656&color=7211F7&width=582&lines=Welcome+to+my+GitHub+page;Watashi+no+GitHub+p%C4%93ji+e+y%C5%8Dkoso" alt="Typing SVG" /></a>
 <img width="100%" opacity="50%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 
